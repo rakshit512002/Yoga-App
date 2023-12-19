@@ -1,7 +1,7 @@
 # Your Project Name
 
 This repository contains a website built for a yoga academy.
-This project marks my submission for the SDE Intern Assignment @Flexmoney December, 2023
+This project marks my submission for the SDE Intern Assignment @Flexmoney Internship 2024
 
 # Tech Stack
 I have made the frontend of this website using react.js and backend using node.js and express.js with MongoDB as my database.
